@@ -1,0 +1,9 @@
+# Ignore Visual Studio Code settings folder
+.vscode/
+
+# Ignore build output and object folders
+bin/
+obj/
+
+# Ignore user-specific files
+Properties/AssemblyInfo.cs
